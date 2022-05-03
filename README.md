@@ -1,24 +1,4 @@
-<!--### Hi there 👋
-
-
-**aj1040077/aj1040077** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<br><br>
-<div align="center">
-  <img src="https://media.giphy.com/media/LqW9dLVjQm3cs/giphy.gif" alt="helicopter gif" width="200"/>
-</div>
-<br><br><br><br>
+<br>
 <div align="center">
   <a href="https://twitter.com/_Yneam"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/></a>
   <a href="https://github.com/ineam"><img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white" alt="Youtube Badge"/></a>
@@ -29,7 +9,6 @@ Here are some ideas to get you started:
     <img src="https://komarev.com/ghpvc/?username=aj1040077&style=flat-square&color=green" alt=""/>
 </div>
 
-<br><br>
 <h1 align="center">
     Hi there 👋
 </h1>
@@ -38,7 +17,7 @@ Here are some ideas to get you started:
 ---
 
 ### :hammer_and_wrench: Languages and Tools:
-<div>
+<div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="Android" alt="Android" width="40" height="40"/>&nbsp;
@@ -55,4 +34,9 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp;
+</div>
+
+<br><br>
+<div align="center">
+  <img src="https://media.giphy.com/media/LqW9dLVjQm3cs/giphy.gif" alt="helicopter gif" width="200"/>
 </div>
