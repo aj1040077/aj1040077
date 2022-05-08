@@ -1,7 +1,7 @@
 <br>
 <div align="center">
   <a href="https://twitter.com/_Yneam"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/></a>
-  <a href="https://github.com/ineam"><img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white" alt="Youtube Badge"/></a>
+  <a href="https://github.com/ineam"><img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/></a>
   <a href="https://www.linkedin.com/in/amine-matouk/"><img src="https://img.shields.io/badge/LinkedIn-lightgray?style=for-the-badge&logo=linkedin&logoColor=blue" alt="LinkedIn Badge"/></a>
 </div>
 
